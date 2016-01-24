@@ -1,0 +1,10 @@
+== learnRubyTheHardWay
+
+It contains the exercises from learnrubythehardway.org. Checkout each folder for the reespective folder block
+
+* ex1-10
+* ex11-20
+* ex21-30
+* ex31-40
+* ex41-50
+* ex51-52
